@@ -1,25 +1,37 @@
 class Solution {
+private:
+    int countOfEleLesserOrEqualTo(vector<vector<int>>& matrix, int x)
+    {
+        int n = matrix.size(), m = matrix[0].size();
+        int cnt = 0, c = n - 1; // start with the rightmost column
+        for (int r = 0; r < m; ++r) {
+            while (c >= 0 && matrix[r][c] > x) --c;  // decrease column until matrix[r][c] <= x
+            cnt += (c + 1);
+        }
+        return cnt;
+    }
+
 public:
     int kthSmallest(vector<vector<int>>& matrix, int k) {
         int n = matrix.size();
         int m = matrix[0].size();
 
-        priority_queue<int, vector<int>,greater<int>>pq;
+        int ans = 0;
 
-        for(int i=0; i<n; i++)
+        int low = matrix[0][0], high = matrix[n-1][m-1];
+
+        while(low<=high)
         {
-            for(int j=0; j<m; j++)
+            int mid = low + (high-low)/2;
+
+            if(countOfEleLesserOrEqualTo(matrix, mid)>=k)
             {
-                pq.push(matrix[i][j]);
+                ans = mid;
+                high = mid-1;
             }
+            else low = mid+1;
         }
 
-        while(k!=1)
-        {
-            pq.pop();
-            k--;
-        }
-        
-        return pq.top();
+        return ans;
     }
 };
