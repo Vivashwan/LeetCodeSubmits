@@ -1,42 +1,36 @@
 class Solution {
     private:
-    bool func(vector<int>&nums, int ind, int sum, vector<vector<int>>&dp)
+    bool func(vector<int>&nums, int n, int sum, vector<vector<bool>>&dp)
     {
-        if(ind==0)
+        for(int i=0; i<n; i++)
         {
-            if(nums[ind]==sum)
+            dp[i][0] = true;
+        }
+
+        if (nums[0] <= sum)
+            dp[0][nums[0]] = true;
+
+        for(int i=1; i<n; i++)
+        {
+            for(int j=1; j<=sum; j++)
             {
-                return true;
+                bool pick = false;
+                if(nums[i]<=j)
+                {
+                    pick = dp[i-1][j-nums[i]];
+                }
+                bool notPick = dp[i-1][j];
+
+                dp[i][j] = pick || notPick;
             }
-            else return false;
         }
 
-        if(sum==0)
-        {
-            return true;
-        }
-
-        if(dp[ind][sum]!=-1)
-        {
-            return dp[ind][sum];
-        }
-
-        bool pick = false;
-        if(sum-nums[ind]>=0)
-        {
-            pick = func(nums, ind-1, sum-nums[ind], dp);
-        }
-        bool notPick = func(nums, ind-1, sum, dp);
-
-        dp[ind][sum] = pick || notPick;
-
-        return pick || notPick;
+        return dp[n-1][sum];
     }
 public:
     bool canPartition(vector<int>& nums) 
     {
         int n = nums.size();
-
 
         int sum = 0;
 
@@ -45,11 +39,12 @@ public:
             sum+=nums[i];
         }
 
-        vector<vector<int>>dp(n, vector<int>(sum/2+1, -1));
+        int k = sum/2;
+        vector<vector<bool>>dp(n, vector<bool>(k+1, false));
         if(sum%2==1)
         {
             return false;
         }
-        else return func(nums, n-1, sum/2, dp);         
+        else return func(nums, n, k, dp);         
     }
 };
