@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 # Hash Table
 |  |
 | ------- |
@@ -27,3 +28,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+# Brainteaser
+|  |
+| ------- |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+# Simulation
+|  |
+| ------- |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
