@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
@@ -20,14 +21,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 # Binary Search
 |  |
 | ------- |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 # Sorting
 |  |
 | ------- |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 # Brainteaser
 |  |
