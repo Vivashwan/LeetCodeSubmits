@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1628-count-submatrices-with-all-ones) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 # Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1628-count-submatrices-with-all-ones) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 # Stack
 |  |
 | ------- |
@@ -90,3 +92,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+# Math
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+# Prefix Sum
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
