@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 # Counting
 |  |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1632-number-of-good-ways-to-split-a-string) |
 # Stack
 |  |
 | ------- |
@@ -100,3 +102,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+# String
+|  |
+| ------- |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1632-number-of-good-ways-to-split-a-string) |
+# Bit Manipulation
+|  |
+| ------- |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1632-number-of-good-ways-to-split-a-string) |
