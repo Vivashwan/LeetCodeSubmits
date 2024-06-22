@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1652-minimum-suffix-flips](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1652-minimum-suffix-flips) |
 # Graph
 |  |
 | ------- |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1652-minimum-suffix-flips](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1652-minimum-suffix-flips) |
 # Bit Manipulation
 |  |
 | ------- |
