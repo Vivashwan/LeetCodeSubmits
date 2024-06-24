@@ -87,10 +87,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 # Depth-First Search
 |  |
 | ------- |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -112,3 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1632-number-of-good-ways-to-split-a-string) |
+# Binary Tree
+|  |
+| ------- |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1653-number-of-good-leaf-nodes-pairs) |
