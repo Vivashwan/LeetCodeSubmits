@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Stack
 |  |
 | ------- |
@@ -134,4 +135,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+## Recursion
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Simulation
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
