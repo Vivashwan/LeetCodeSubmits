@@ -156,4 +156,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+## Math
+|  |
+| ------- |
+| [1674-minimum-operations-to-make-array-equal](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1674-minimum-operations-to-make-array-equal) |
 <!---LeetCode Topics End-->
