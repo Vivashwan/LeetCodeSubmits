@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
 ## Recursion
 |  |
 | ------- |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1675-magnetic-force-between-two-balls) |
 ## Hash Table
 |  |
@@ -173,4 +175,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
 <!---LeetCode Topics End-->
