@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 ## Recursion
 |  |
 | ------- |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1675-magnetic-force-between-two-balls](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1684-find-latest-group-of-size-m](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1684-find-latest-group-of-size-m) |
+| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [3483-alternating-groups-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
@@ -212,4 +214,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3483-alternating-groups-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3483-alternating-groups-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 <!---LeetCode Topics End-->
