@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1678-number-of-ways-to-split-a-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1678-number-of-ways-to-split-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1674-minimum-operations-to-make-array-equal) |
+| [1678-number-of-ways-to-split-a-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1678-number-of-ways-to-split-a-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Binary Search
 |  |
