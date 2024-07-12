@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1684-find-latest-group-of-size-m](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1684-find-latest-group-of-size-m) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [3483-alternating-groups-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3483-alternating-groups-ii) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Hash Table
 |  |
 | ------- |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Math
 |  |
 | ------- |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1663-detect-cycles-in-2d-grid) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Game Theory
 |  |
 | ------- |
