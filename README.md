@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Recursion
 |  |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1684-find-latest-group-of-size-m](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1684-find-latest-group-of-size-m) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3483-alternating-groups-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3483-alternating-groups-ii) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Math
 |  |
@@ -192,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1675-magnetic-force-between-two-balls](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 ## Graph
 |  |
 | ------- |
