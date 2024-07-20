@@ -10,12 +10,21 @@ public:
             mp[it]++;
         }
         
-        int res = 0;
+        int count = 0;
         
-        for(auto x : mp){
-            int f = x.second;
-            res += (f%2) ? f - 1 : f - 2;
+        for(auto it: mp)
+        {
+            int v = it.second;
+            if(v%2==0)
+            {
+                count+=2;
+            }
+            else 
+            {
+                count+=1;
+            }
         }
-        return n - res;
+        
+        return count;
     }
 };
