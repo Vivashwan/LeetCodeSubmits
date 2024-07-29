@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1748-best-team-with-no-conflicts](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1748-best-team-with-no-conflicts) |
+| [1752-arithmetic-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1752-arithmetic-subarrays) |
 | [3483-alternating-groups-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3483-alternating-groups-ii) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Hash Table
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1694-make-sum-divisible-by-p](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1752-arithmetic-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1752-arithmetic-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1748-best-team-with-no-conflicts](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1748-best-team-with-no-conflicts) |
+| [1752-arithmetic-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1752-arithmetic-subarrays) |
 ## Graph
 |  |
 | ------- |
