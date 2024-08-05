@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1674-minimum-operations-to-make-array-equal](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1678-number-of-ways-to-split-a-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1678-number-of-ways-to-split-a-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1761-count-sorted-vowel-strings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1761-count-sorted-vowel-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1748-best-team-with-no-conflicts](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1748-best-team-with-no-conflicts) |
+| [1761-count-sorted-vowel-strings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1761-count-sorted-vowel-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -287,4 +289,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1743-count-substrings-that-differ-by-one-character) |
+## Combinatorics
+|  |
+| ------- |
+| [1761-count-sorted-vowel-strings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1761-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
