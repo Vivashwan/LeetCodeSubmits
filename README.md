@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-arithmetic-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1752-arithmetic-subarrays) |
 | [1753-path-with-minimum-effort](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1753-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1762-furthest-building-you-can-reach) |
+| [1767-design-front-middle-back-queue](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1767-design-front-middle-back-queue) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1783-ways-to-make-a-fair-array) |
@@ -322,4 +323,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1765-merge-in-between-linked-lists](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1765-merge-in-between-linked-lists) |
+| [1767-design-front-middle-back-queue](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1767-design-front-middle-back-queue) |
+## Design
+|  |
+| ------- |
+| [1767-design-front-middle-back-queue](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1767-design-front-middle-back-queue) |
+## Queue
+|  |
+| ------- |
+| [1767-design-front-middle-back-queue](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1767-design-front-middle-back-queue) |
+## Data Stream
+|  |
+| ------- |
+| [1767-design-front-middle-back-queue](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1767-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
