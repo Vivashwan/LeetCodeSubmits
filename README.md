@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1684-find-latest-group-of-size-m](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1684-find-latest-group-of-size-m) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
+| [1803-average-waiting-time](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1803-average-waiting-time) |
 ## Array
 |  |
 | ------- |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1783-ways-to-make-a-fair-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1783-ways-to-make-a-fair-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1803-average-waiting-time](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1803-average-waiting-time) |
 | [1813-maximum-erasure-value](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1813-maximum-erasure-value) |
 | [1814-jump-game-vi](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1814-jump-game-vi) |
 | [3483-alternating-groups-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3483-alternating-groups-ii) |
