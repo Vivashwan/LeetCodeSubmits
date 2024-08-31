@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Stack
 |  |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1824-maximum-number-of-eaten-apples) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Recursion
