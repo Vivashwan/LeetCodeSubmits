@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1835-decode-xored-permutation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1835-decode-xored-permutation) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [1866-restore-the-array-from-adjacent-pairs](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [3483-alternating-groups-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3483-alternating-groups-ii) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Hash Table
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1813-maximum-erasure-value) |
 | [1830-count-good-meals](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1830-count-good-meals) |
+| [1866-restore-the-array-from-adjacent-pairs](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
