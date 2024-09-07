@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Stack
 |  |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1831-ways-to-split-array-into-three-subarrays) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 ## Monotonic Stack
 |  |
 | ------- |
