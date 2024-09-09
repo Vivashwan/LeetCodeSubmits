@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [3483-alternating-groups-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3483-alternating-groups-ii) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Hash Table
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1831-ways-to-split-array-into-three-subarrays) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 ## Sorting
 |  |
 | ------- |
