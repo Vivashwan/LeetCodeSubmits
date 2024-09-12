@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-map-of-highest-peak](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1900-closest-dessert-cost](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1900-closest-dessert-cost) |
 | [3483-alternating-groups-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3483-alternating-groups-ii) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Hash Table
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1761-count-sorted-vowel-strings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1761-count-sorted-vowel-strings) |
 | [1814-jump-game-vi](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1814-jump-game-vi) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1900-closest-dessert-cost](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1900-closest-dessert-cost) |
 ## Two Pointers
 |  |
 | ------- |
@@ -362,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1900-closest-dessert-cost](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1900-closest-dessert-cost) |
 ## Counting
 |  |
 | ------- |
