@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1879-maximum-score-from-removing-stones) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Binary Search
 |  |
 | ------- |
