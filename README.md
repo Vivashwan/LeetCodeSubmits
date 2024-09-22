@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1879-maximum-score-from-removing-stones](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1879-maximum-score-from-removing-stones) |
 | [1917-maximum-average-pass-ratio](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1917-maximum-average-pass-ratio) |
+| [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Recursion
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Sorting
 |  |
 | ------- |
