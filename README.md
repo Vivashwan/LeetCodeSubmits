@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1917-maximum-average-pass-ratio](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1917-maximum-average-pass-ratio) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1945-finding-the-users-active-minutes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1945-finding-the-users-active-minutes) |
 | [1952-minimum-sideway-jumps](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1952-minimum-sideway-jumps) |
 | [3483-alternating-groups-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3483-alternating-groups-ii) |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1879-maximum-score-from-removing-stones](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1879-maximum-score-from-removing-stones) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 ## Binary Search
 |  |
 | ------- |
@@ -454,4 +456,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1908-recyclable-and-low-fat-products) |
+## Geometry
+|  |
+| ------- |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 <!---LeetCode Topics End-->
