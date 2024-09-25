@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1925-count-nice-pairs-in-an-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [1940-maximum-xor-for-each-query](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1940-maximum-xor-for-each-query) |
 | [1945-finding-the-users-active-minutes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1945-finding-the-users-active-minutes) |
 | [1952-minimum-sideway-jumps](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1952-minimum-sideway-jumps) |
 | [3483-alternating-groups-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3483-alternating-groups-ii) |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1783-ways-to-make-a-fair-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1783-ways-to-make-a-fair-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1831-ways-to-split-array-into-three-subarrays) |
+| [1940-maximum-xor-for-each-query](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1940-maximum-xor-for-each-query) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Math
 |  |
@@ -317,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1835-decode-xored-permutation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1835-decode-xored-permutation) |
+| [1940-maximum-xor-for-each-query](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1940-maximum-xor-for-each-query) |
 ## Depth-First Search
 |  |
 | ------- |
