@@ -470,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1877-find-followers-count](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1908-recyclable-and-low-fat-products) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Geometry
 |  |
