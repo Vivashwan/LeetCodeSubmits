@@ -464,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1390-average-selling-price](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1625-group-sold-products-by-the-date](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1801-average-time-of-process-per-machine) |
