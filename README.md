@@ -489,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1179-game-play-analysis-i](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1258-article-views-i) |
 | [1268-market-analysis-i](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1268-market-analysis-i) |
+| [1292-immediate-food-delivery-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1292-immediate-food-delivery-ii) |
 | [1301-reformat-department-table](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1301-reformat-department-table) |
 | [1390-average-selling-price](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1415-students-and-examinations) |
