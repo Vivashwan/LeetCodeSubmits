@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1961-maximum-ice-cream-bars](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1961-maximum-ice-cream-bars) |
 | [1962-single-threaded-cpu](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [3483-alternating-groups-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3483-alternating-groups-ii) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Hash Table
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 ## Sorting
 |  |
 | ------- |
@@ -400,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 ## Monotonic Stack
 |  |
 | ------- |
