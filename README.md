@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1961-maximum-ice-cream-bars](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1961-maximum-ice-cream-bars) |
 | [1962-single-threaded-cpu](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1972-rotating-the-box](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1972-rotating-the-box) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1985-maximum-subarray-min-product](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1985-maximum-subarray-min-product) |
 | [3483-alternating-groups-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3483-alternating-groups-ii) |
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1753-path-with-minimum-effort) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1876-map-of-highest-peak](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1876-map-of-highest-peak) |
+| [1972-rotating-the-box](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1972-rotating-the-box) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Game Theory
 |  |
@@ -404,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [1972-rotating-the-box](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1972-rotating-the-box) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 ## Monotonic Stack
