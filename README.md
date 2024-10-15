@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
+| [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Stack
 |  |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1961-maximum-ice-cream-bars](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
+| [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Recursion
 |  |
