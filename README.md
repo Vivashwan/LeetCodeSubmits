@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1985-maximum-subarray-min-product](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1985-maximum-subarray-min-product) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [3483-alternating-groups-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3483-alternating-groups-ii) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Hash Table
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2000-minimum-speed-to-arrive-on-time) |
 ## Sorting
 |  |
 | ------- |
