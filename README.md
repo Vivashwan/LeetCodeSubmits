@@ -256,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2012-process-tasks-using-servers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2012-process-tasks-using-servers) |
+| [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [3483-alternating-groups-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3483-alternating-groups-ii) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Hash Table
@@ -341,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1962-single-threaded-cpu](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 ## Graph
 |  |
 | ------- |
