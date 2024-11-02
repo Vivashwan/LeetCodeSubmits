@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2001-jump-game-vii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2027-maximum-number-of-removable-characters) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Stack
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1985-maximum-subarray-min-product](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1985-maximum-subarray-min-product) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1803-average-waiting-time](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Array
 |  |
 | ------- |
