@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2012-process-tasks-using-servers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2012-process-tasks-using-servers) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2027-maximum-number-of-removable-characters) |
 | [2034-minimum-absolute-difference-queries](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2034-minimum-absolute-difference-queries) |
@@ -440,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1952-minimum-sideway-jumps](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1952-minimum-sideway-jumps) |
 | [2001-jump-game-vii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 ## Two Pointers
 |  |
