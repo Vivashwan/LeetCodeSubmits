@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2027-maximum-number-of-removable-characters) |
 | [2044-number-of-wonderful-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2044-number-of-wonderful-substrings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Stack
 |  |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2034-minimum-absolute-difference-queries](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2034-minimum-absolute-difference-queries) |
 | [2044-number-of-wonderful-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2044-number-of-wonderful-substrings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -316,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2001-jump-game-vii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2001-jump-game-vii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2044-number-of-wonderful-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2044-number-of-wonderful-substrings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Math
 |  |
@@ -387,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1835-decode-xored-permutation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1835-decode-xored-permutation) |
 | [1940-maximum-xor-for-each-query](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1940-maximum-xor-for-each-query) |
 | [2044-number-of-wonderful-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2044-number-of-wonderful-substrings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Depth-First Search
 |  |
 | ------- |
