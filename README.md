@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2027-maximum-number-of-removable-characters](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2027-maximum-number-of-removable-characters) |
 | [2034-minimum-absolute-difference-queries](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2034-minimum-absolute-difference-queries) |
 | [2035-count-sub-islands](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2035-count-sub-islands) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2047-find-a-peak-element-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2047-find-a-peak-element-ii) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [3483-alternating-groups-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3483-alternating-groups-ii) |
@@ -399,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2035-count-sub-islands) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Union Find
 |  |
 | ------- |
@@ -417,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-map-of-highest-peak](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2035-count-sub-islands) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2047-find-a-peak-element-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2047-find-a-peak-element-ii) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Game Theory
