@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2047-find-a-peak-element-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2047-find-a-peak-element-ii) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2049-eliminate-maximum-number-of-monsters) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2067-maximum-number-of-points-with-cost) |
 | [3483-alternating-groups-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3483-alternating-groups-ii) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Hash Table
@@ -425,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2047-find-a-peak-element-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2047-find-a-peak-element-ii) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2067-maximum-number-of-points-with-cost) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Game Theory
 |  |
@@ -459,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Two Pointers
 |  |
 | ------- |
