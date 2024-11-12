@@ -282,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2078-maximum-compatibility-score-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2078-maximum-compatibility-score-sum) |
+| [2081-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2081-minimum-total-space-wasted-with-k-resizing-operations) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [3483-alternating-groups-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3483-alternating-groups-ii) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -469,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2078-maximum-compatibility-score-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2078-maximum-compatibility-score-sum) |
+| [2081-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2081-minimum-total-space-wasted-with-k-resizing-operations) |
 ## Two Pointers
 |  |
 | ------- |
