@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-maximum-compatibility-score-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2078-maximum-compatibility-score-sum) |
 | [2081-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2081-minimum-total-space-wasted-with-k-resizing-operations) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [3483-alternating-groups-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3483-alternating-groups-ii) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -387,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2049-eliminate-maximum-number-of-monsters) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 ## Graph
 |  |
 | ------- |
