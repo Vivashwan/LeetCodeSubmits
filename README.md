@@ -303,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2139-detect-squares](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2139-detect-squares) |
+| [2145-grid-game](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2145-grid-game) |
 | [3483-alternating-groups-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3483-alternating-groups-ii) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Hash Table
@@ -349,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2044-number-of-wonderful-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2145-grid-game) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Math
 |  |
@@ -467,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2067-maximum-number-of-points-with-cost](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2089-maximum-matrix-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2089-maximum-matrix-sum) |
 | [2103-find-all-groups-of-farmland](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2103-find-all-groups-of-farmland) |
+| [2145-grid-game](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2145-grid-game) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Game Theory
 |  |
