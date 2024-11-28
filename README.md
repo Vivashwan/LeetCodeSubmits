@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2044-number-of-wonderful-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Stack
 |  |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2118-maximum-earnings-from-taxi](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2118-maximum-earnings-from-taxi) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2139-detect-squares](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2139-detect-squares) |
 | [2145-grid-game](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2145-grid-game) |
@@ -332,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2117-find-original-array-from-doubled-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2117-find-original-array-from-doubled-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2118-maximum-earnings-from-taxi) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2139-detect-squares](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2139-detect-squares) |
 ## Prefix Sum
 |  |
@@ -542,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2139-detect-squares](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2139-detect-squares) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Heap (Priority Queue)
