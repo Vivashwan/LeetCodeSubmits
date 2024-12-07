@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1324-where-will-the-ball-fall](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1324-where-will-the-ball-fall) |
 | [1364-tuple-with-same-product](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1364-tuple-with-same-product) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1603-running-sum-of-1d-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1603-running-sum-of-1d-array) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0724-find-pivot-index) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1603-running-sum-of-1d-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1603-running-sum-of-1d-array) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1694-make-sum-divisible-by-p](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1694-make-sum-divisible-by-p) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
