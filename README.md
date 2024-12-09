@@ -284,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1962-single-threaded-cpu](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1962-single-threaded-cpu) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1972-rotating-the-box](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1972-rotating-the-box) |
+| [1983-maximum-population-year](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1983-maximum-population-year) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1985-maximum-subarray-min-product](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1985-maximum-subarray-min-product) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -370,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-find-the-highest-altitude](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1940-maximum-xor-for-each-query) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1983-maximum-population-year](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1983-maximum-population-year) |
 | [1985-maximum-subarray-min-product](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1985-maximum-subarray-min-product) |
 | [2001-jump-game-vii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2001-jump-game-vii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -576,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1364-tuple-with-same-product](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1364-tuple-with-same-product) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1983-maximum-population-year](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1983-maximum-population-year) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2139-detect-squares](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2139-detect-squares) |
