@@ -308,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2089-maximum-matrix-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2102-find-the-middle-index-in-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2102-find-the-middle-index-in-array) |
 | [2103-find-all-groups-of-farmland](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2103-find-all-groups-of-farmland) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2117-find-original-array-from-doubled-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2118-maximum-earnings-from-taxi) |
@@ -374,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2044-number-of-wonderful-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2102-find-the-middle-index-in-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2102-find-the-middle-index-in-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2145-grid-game](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2145-grid-game) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
