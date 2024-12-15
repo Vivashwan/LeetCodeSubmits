@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<int>v;
-
     Solution(vector<int>& w) {
         v.push_back(w[0]);
 
@@ -12,11 +11,11 @@ public:
     }
     
     int pickIndex() {
-        int randomVal = rand()%v.back();
+        int random = rand()%v.back();
 
-        auto it = upper_bound(v.begin(), v.end(), randomVal);
+        auto it = upper_bound(v.begin(), v.end(), random);
 
-        return it-v.begin(); // This returns the index.
+        return it-v.begin();
     }
 };
 
