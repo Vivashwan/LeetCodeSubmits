@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2165-plates-between-candles](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2165-plates-between-candles) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Stack
 |  |
@@ -347,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2145-grid-game](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2145-grid-game) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2155-find-missing-observations](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2155-find-missing-observations) |
+| [2165-plates-between-candles](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2165-plates-between-candles) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2714-left-and-right-sum-differences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2714-left-and-right-sum-differences) |
 | [3483-alternating-groups-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3483-alternating-groups-ii) |
@@ -439,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2102-find-the-middle-index-in-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2102-find-the-middle-index-in-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2145-grid-game](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2145-grid-game) |
+| [2165-plates-between-candles](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2165-plates-between-candles) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2571-find-the-pivot-integer](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2714-left-and-right-sum-differences) |
@@ -494,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2047-find-a-peak-element-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2047-find-a-peak-element-ii) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2118-maximum-earnings-from-taxi) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2165-plates-between-candles](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2165-plates-between-candles) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Sorting
 |  |
