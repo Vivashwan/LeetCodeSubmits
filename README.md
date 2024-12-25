@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2165-plates-between-candles](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2165-plates-between-candles) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2325-number-of-ways-to-select-buildings) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Stack
 |  |
@@ -450,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2240-intervals-between-identical-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2240-intervals-between-identical-elements) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2571-find-the-pivot-integer](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2714-left-and-right-sum-differences) |
@@ -645,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2081-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2081-minimum-total-space-wasted-with-k-resizing-operations) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2118-maximum-earnings-from-taxi) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2325-number-of-ways-to-select-buildings) |
 ## Two Pointers
 |  |
 | ------- |
