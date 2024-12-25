@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2117-find-original-array-from-doubled-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Recursion
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2165-plates-between-candles](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2165-plates-between-candles) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2240-intervals-between-identical-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2240-intervals-between-identical-elements) |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2714-left-and-right-sum-differences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2714-left-and-right-sum-differences) |
 | [3483-alternating-groups-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3483-alternating-groups-ii) |
@@ -447,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2165-plates-between-candles](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2165-plates-between-candles) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2240-intervals-between-identical-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2240-intervals-between-identical-elements) |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2571-find-the-pivot-integer](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2714-left-and-right-sum-differences) |
@@ -529,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2117-find-original-array-from-doubled-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2117-find-original-array-from-doubled-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2118-maximum-earnings-from-taxi) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Graph
 |  |
@@ -702,6 +706,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1743-count-substrings-that-differ-by-one-character) |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2290-removing-minimum-number-of-magic-beans) |
 ## Combinatorics
 |  |
 | ------- |
