@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2165-plates-between-candles](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2165-plates-between-candles) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2325-number-of-ways-to-select-buildings) |
+| [2465-shifting-letters-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2465-shifting-letters-ii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Stack
 |  |
@@ -358,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2342-minimum-average-difference](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2358-number-of-ways-to-split-array) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
+| [2465-shifting-letters-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2465-shifting-letters-ii) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2714-left-and-right-sum-differences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2714-left-and-right-sum-differences) |
 | [3483-alternating-groups-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3483-alternating-groups-ii) |
@@ -459,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2342-minimum-average-difference](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2358-number-of-ways-to-split-array) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
+| [2465-shifting-letters-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2465-shifting-letters-ii) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2571-find-the-pivot-integer](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2714-left-and-right-sum-differences) |
