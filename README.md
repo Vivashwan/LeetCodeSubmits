@@ -371,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2714-left-and-right-sum-differences) |
+| [2721-sum-of-distances](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2721-sum-of-distances) |
 | [3483-alternating-groups-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3483-alternating-groups-ii) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Hash Table
@@ -413,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-stock-price-fluctuation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2161-stock-price-fluctuation) |
 | [2240-intervals-between-identical-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2240-intervals-between-identical-elements) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2656-count-the-number-of-beautiful-subarrays) |
+| [2721-sum-of-distances](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2721-sum-of-distances) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -481,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2714-left-and-right-sum-differences) |
+| [2721-sum-of-distances](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2721-sum-of-distances) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Math
 |  |
