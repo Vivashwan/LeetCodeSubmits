@@ -253,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0724-find-pivot-index) |
+| [0747-min-cost-climbing-stairs](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0747-min-cost-climbing-stairs) |
 | [0878-shifting-letters](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0878-shifting-letters) |
 | [0912-random-pick-with-weight](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0912-random-pick-with-weight) |
 | [0966-binary-subarrays-with-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0966-binary-subarrays-with-sum) |
@@ -665,6 +666,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
