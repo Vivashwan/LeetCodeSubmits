@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2530-minimize-maximum-of-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2530-minimize-maximum-of-array) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Recursion
 |  |
 | ------- |
@@ -380,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2721-sum-of-distances](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2721-sum-of-distances) |
 | [3483-alternating-groups-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3483-alternating-groups-ii) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Hash Table
 |  |
 | ------- |
@@ -421,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2240-intervals-between-identical-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2240-intervals-between-identical-elements) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2721-sum-of-distances](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2721-sum-of-distances) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -491,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2714-left-and-right-sum-differences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2714-left-and-right-sum-differences) |
 | [2721-sum-of-distances](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2721-sum-of-distances) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Math
 |  |
 | ------- |
@@ -699,6 +703,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2325-number-of-ways-to-select-buildings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2504-find-all-good-indices](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2504-find-all-good-indices) |
 | [2530-minimize-maximum-of-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2530-minimize-maximum-of-array) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Two Pointers
 |  |
 | ------- |
