@@ -1,68 +1,35 @@
 class Solution {
 public:
-    
-    int dp[1005][2];
-    
-    int helper(vector<int>& nums, int i, int n, bool flag)
-    {
-        // if one element is present
-        
-        if(i == n - 1)
-            return 1;
-        
-        // if already calculated
-        
-        if(dp[i][flag] != -1)
-            return dp[i][flag];
-        
-        int ans = 0;
-        
-        if(flag)  // we need positive diff.
-        {
-            if(nums[i + 1] > nums[i])  // include
-            {
-                ans = max(ans, 1 + helper(nums, i + 1, n, false));
-            }
-            else  // exclude
-            {
-                ans = max(ans, helper(nums, i + 1, n, true));
-            }
-        }
-        else   // we need negative diff
-        {
-            if(nums[i + 1] < nums[i])   // include
-            {
-                ans = max(ans, 1 + helper(nums, i + 1, n, true));
-            }
-            else  // exclude
-            {
-                ans = max(ans, helper(nums, i + 1, n, false));
-            }
-        }
-        
-        // store the ans in dp
-        
-        return dp[i][flag] = ans;
-    }
-    
     int wiggleMaxLength(vector<int>& nums) {
-        
         int n = nums.size();
+
+        if(n==1) 
+        {
+            return 1;
+        }
+
+        vector<vector<vector<int>>> dp(n+1, vector<vector<int>>(n+1, vector<int>(2, 0)));
+
+        for(int ind=n-1; ind>=0; ind--) 
+        {
+            for(int prev=ind-1; prev>=-1; prev--) 
+            {  
+                for(int positive=0; positive<2; positive++) 
+                {
+                    int pick=0;
+
+                    if((positive && (prev==-1 || nums[ind]>nums[prev])) || 
+                        (!positive && (prev==-1 || nums[ind]<nums[prev]))) {
+                        pick = 1 + dp[ind+1][ind+1][!positive]; 
+                    }
+
+                    int notPick = (ind+1<n) ? dp[ind+1][prev+1][positive]:0;
+                    
+                    dp[ind][prev+1][positive] = max(pick, notPick);
+                }
+            }
+        }
         
-        int ans = INT_MIN;
-        
-        memset(dp, -1, sizeof(dp));
-        
-        // by taking positive as first diff.
-        
-        ans = max(ans, helper(nums, 0, n, true));
-        
-        memset(dp, -1, sizeof(dp));
-        
-        // by taking negative as first diff.
-        
-        ans = max(ans, helper(nums, 0, n, false));
-        
-        return ans;
+        return max(dp[0][0][0], dp[0][0][1]);
     }
 };
