@@ -1,50 +1,40 @@
 class Solution {
-    private:
-    bool func(vector<int>&nums, int n, int sum, vector<vector<bool>>&dp)
+private:
+    bool func(vector<int>&nums, int n, int ind, int amount, vector<vector<int>>&dp)
     {
-        for(int i=0; i<n; i++)
+        if(amount==0)
         {
-            dp[i][0] = true;
+            return true;
         }
 
-        // if (nums[0] <= sum)
-        //     dp[0][nums[0]] = true;
-
-        for(int i=1; i<n; i++)
-        {
-            for(int j=1; j<=sum; j++)
-            {
-                bool pick = false;
-                if(nums[i]<=j)
-                {
-                    pick = dp[i-1][j-nums[i]];
-                }
-                bool notPick = dp[i-1][j];
-
-                dp[i][j] = pick || notPick;
-            }
-        }
-
-        return dp[n-1][sum];
-    }
-public:
-    bool canPartition(vector<int>& nums) 
-    {
-        int n = nums.size();
-
-        int sum = 0;
-
-        for(int i=0; i<n; i++)
-        {
-            sum+=nums[i];
-        }
-
-        int k = sum/2;
-        vector<vector<bool>>dp(n, vector<bool>(k+1, false));
-        if(sum%2==1)
+        if(ind>=n || amount<0)
         {
             return false;
         }
-        else return func(nums, n, k, dp);         
+
+        if(dp[ind][amount]!=-1)
+        {
+            return dp[ind][amount];
+        }
+
+        bool pick = func(nums, n, ind+1, amount-nums[ind], dp);
+        bool notPick = func(nums, n, ind+1, amount, dp);
+
+        return dp[ind][amount] = pick||notPick;
+    }
+public:
+    bool canPartition(vector<int>& nums) {
+        int n = nums.size();
+
+        int total = accumulate(nums.begin(), nums.end(), 0);
+
+        if(total%2!=0)
+        {
+            return false;
+        }
+
+        vector<vector<int>>dp(n, vector<int>((total/2)+1, -1));
+
+        return func(nums, n, 0, total/2, dp);
     }
 };
