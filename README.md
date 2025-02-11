@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0376-wiggle-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0376-wiggle-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0525-contiguous-array) |
@@ -696,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0376-wiggle-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -758,6 +760,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1900-closest-dessert-cost](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1900-closest-dessert-cost) |
 | [2078-maximum-compatibility-score-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2078-maximum-compatibility-score-sum) |
