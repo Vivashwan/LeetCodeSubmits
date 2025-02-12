@@ -12,24 +12,21 @@ private:
             return dp[target];
         }
 
-        dp[target] = 0; 
+        int res=0;
 
         for(auto it: nums)
         {
             if(it<=target)
             {
-                dp[target]+= func(nums, target-it, dp);
+                res+=func(nums, target-it, dp);
             }
         }
 
-        return dp[target];
+        return dp[target] = res;
     }
 public:
     int combinationSum4(vector<int>& nums, int target) {
-        int n = nums.size();
-
         vector<int>dp(target+1, -1);
-
         return func(nums, target, dp);
     }
 };
