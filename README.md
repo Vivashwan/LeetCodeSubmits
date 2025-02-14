@@ -284,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-car-pooling](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1206-corporate-flight-bookings) |
 | [1219-longest-well-performing-interval](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1219-longest-well-performing-interval) |
+| [1240-stone-game-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1240-stone-game-ii) |
 | [1242-matrix-block-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1242-matrix-block-sum) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1281-can-make-palindrome-from-substring) |
 | [1324-where-will-the-ball-fall](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1324-where-will-the-ball-fall) |
@@ -464,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-car-pooling](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1206-corporate-flight-bookings) |
 | [1219-longest-well-performing-interval](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1219-longest-well-performing-interval) |
+| [1240-stone-game-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1240-stone-game-ii) |
 | [1242-matrix-block-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1242-matrix-block-sum) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1281-can-make-palindrome-from-substring) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1321-get-equal-substrings-within-budget) |
@@ -524,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-random-pick-with-weight](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0912-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1236-n-th-tribonacci-number) |
+| [1240-stone-game-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1370-count-number-of-nice-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1674-minimum-operations-to-make-array-equal) |
@@ -673,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1240-stone-game-ii) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Sliding Window
@@ -720,6 +724,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1087-longest-arithmetic-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1087-longest-arithmetic-subsequence) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1121-partition-array-for-maximum-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1236-n-th-tribonacci-number) |
+| [1240-stone-game-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1240-stone-game-ii) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
