@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2050-count-good-numbers) |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0377-combination-sum-iv) |
 | [0413-arithmetic-slices](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0523-continuous-subarray-sum) |
@@ -523,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0523-continuous-subarray-sum) |
 | [0912-random-pick-with-weight](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0912-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1013-fibonacci-number) |
@@ -677,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0486-predict-the-winner) |
 | [1240-stone-game-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1240-stone-game-ii) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -713,6 +717,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0518-coin-change-ii) |
 | [0576-out-of-boundary-paths](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0576-out-of-boundary-paths) |
