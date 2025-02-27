@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0198-house-robber) |
@@ -727,6 +728,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0091-decode-ways) |
 | [0119-pascals-triangle-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0120-triangle) |
@@ -983,4 +985,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1013-fibonacci-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1236-n-th-tribonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
