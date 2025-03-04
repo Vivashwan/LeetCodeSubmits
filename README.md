@@ -309,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1242-matrix-block-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1242-matrix-block-sum) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1281-can-make-palindrome-from-substring) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
+| [1299-k-concatenation-maximum-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1299-k-concatenation-maximum-sum) |
 | [1324-where-will-the-ball-fall](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1324-where-will-the-ball-fall) |
 | [1364-tuple-with-same-product](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1370-count-number-of-nice-subarrays) |
@@ -774,6 +775,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1240-stone-game-ii) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
+| [1299-k-concatenation-maximum-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1299-k-concatenation-maximum-sum) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
