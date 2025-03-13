@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0032-longest-valid-parentheses) |
+| [0072-edit-distance](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0132-palindrome-partitioning-ii) |
@@ -741,6 +742,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0091-decode-ways) |
 | [0119-pascals-triangle-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0120-triangle) |
