@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0878-shifting-letters](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0878-shifting-letters) |
 | [1129-longest-string-chain](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1129-longest-string-chain) |
+| [1250-longest-common-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1250-longest-common-subsequence) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1281-can-make-palindrome-from-substring) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1321-get-equal-substrings-within-budget) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -782,6 +783,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1236-n-th-tribonacci-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1240-stone-game-ii) |
+| [1250-longest-common-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1299-k-concatenation-maximum-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1299-k-concatenation-maximum-sum) |
