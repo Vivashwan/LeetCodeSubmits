@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0300-longest-increasing-subsequence) |
@@ -700,6 +701,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0064-minimum-path-sum) |
+| [0221-maximal-square](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0221-maximal-square) |
 | [1242-matrix-block-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1242-matrix-block-sum) |
 | [1324-where-will-the-ball-fall](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1324-where-will-the-ball-fall) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -764,6 +766,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0368-largest-divisible-subset) |
