@@ -318,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1206-corporate-flight-bookings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1206-corporate-flight-bookings) |
 | [1219-longest-well-performing-interval](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1219-longest-well-performing-interval) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1239-largest-1-bordered-square](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1239-largest-1-bordered-square) |
 | [1240-stone-game-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1240-stone-game-ii) |
 | [1242-matrix-block-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1242-matrix-block-sum) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1281-can-make-palindrome-from-substring) |
@@ -704,6 +705,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0221-maximal-square) |
+| [1239-largest-1-bordered-square](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1239-largest-1-bordered-square) |
 | [1242-matrix-block-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1242-matrix-block-sum) |
 | [1324-where-will-the-ball-fall](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1324-where-will-the-ball-fall) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -806,6 +808,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1130-last-stone-weight-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1130-last-stone-weight-ii) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1236-n-th-tribonacci-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1236-n-th-tribonacci-number) |
+| [1239-largest-1-bordered-square](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1239-largest-1-bordered-square) |
 | [1240-stone-game-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1263-number-of-dice-rolls-with-target-sum) |
