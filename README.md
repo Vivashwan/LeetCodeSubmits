@@ -299,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0747-min-cost-climbing-stairs) |
+| [0769-largest-plus-sign](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0769-largest-plus-sign) |
 | [0878-shifting-letters](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0878-shifting-letters) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0909-stone-game](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0909-stone-game) |
@@ -790,6 +791,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0747-min-cost-climbing-stairs) |
+| [0769-largest-plus-sign](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0769-largest-plus-sign) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0909-stone-game](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0909-stone-game) |
 | [0972-knight-dialer](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0972-knight-dialer) |
