@@ -353,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1748-best-team-with-no-conflicts](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1748-best-team-with-no-conflicts) |
 | [1752-arithmetic-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1752-arithmetic-subarrays) |
 | [1753-path-with-minimum-effort](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1753-path-with-minimum-effort) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1762-furthest-building-you-can-reach](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1762-furthest-building-you-can-reach) |
 | [1767-design-front-middle-back-queue](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1767-design-front-middle-back-queue) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1771-sell-diminishing-valued-colored-balls) |
@@ -696,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1753-path-with-minimum-effort) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1876-map-of-highest-peak](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -835,6 +837,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1748-best-team-with-no-conflicts](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1748-best-team-with-no-conflicts) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1761-count-sorted-vowel-strings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1761-count-sorted-vowel-strings) |
 | [1814-jump-game-vi](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1814-jump-game-vi) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
