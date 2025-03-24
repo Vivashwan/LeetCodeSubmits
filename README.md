@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0376-wiggle-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0376-wiggle-subsequence) |
 | [0455-assign-cookies](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-video-stitching](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1081-video-stitching) |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0698-partition-to-k-equal-sum-subsets) |
