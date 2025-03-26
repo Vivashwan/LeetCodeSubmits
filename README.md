@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0768-partition-labels](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0868-push-dominoes) |
 | [0878-shifting-letters](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0878-shifting-letters) |
 | [1129-longest-string-chain](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1129-longest-string-chain) |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0768-partition-labels](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -469,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0740-delete-and-earn) |
+| [0768-partition-labels](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -891,6 +894,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0647-palindromic-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0647-palindromic-substrings) |
+| [0768-partition-labels](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0868-push-dominoes) |
 | [1129-longest-string-chain](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1129-longest-string-chain) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
