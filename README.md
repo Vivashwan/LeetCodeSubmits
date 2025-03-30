@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0132-palindrome-partitioning-ii) |
 | [0392-is-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0402-remove-k-digits) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0647-palindromic-substrings) |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0032-longest-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0402-remove-k-digits) |
 | [1219-longest-well-performing-interval](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1219-longest-well-performing-interval) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1628-count-submatrices-with-all-ones) |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0134-gas-station](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0134-gas-station) |
 | [0376-wiggle-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0376-wiggle-subsequence) |
+| [0402-remove-k-digits](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0605-can-place-flowers) |
@@ -917,6 +920,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0402-remove-k-digits) |
 | [1219-longest-well-performing-interval](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1219-longest-well-performing-interval) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1628-count-submatrices-with-all-ones) |
