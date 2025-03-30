@@ -302,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0377-combination-sum-iv) |
+| [0406-queue-reconstruction-by-height](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0406-queue-reconstruction-by-height) |
 | [0413-arithmetic-slices](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0455-assign-cookies) |
@@ -665,6 +666,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0368-largest-divisible-subset) |
+| [0406-queue-reconstruction-by-height](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0406-queue-reconstruction-by-height) |
 | [0455-assign-cookies](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0561-array-partition) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0646-maximum-length-of-pair-chain) |
@@ -1107,9 +1109,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0406-queue-reconstruction-by-height) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0406-queue-reconstruction-by-height) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
