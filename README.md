@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0134-gas-station) |
 | [0376-wiggle-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0605-can-place-flowers) |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0406-queue-reconstruction-by-height](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0406-queue-reconstruction-by-height) |
 | [0413-arithmetic-slices](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0494-target-sum) |
@@ -700,6 +702,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0368-largest-divisible-subset) |
 | [0406-queue-reconstruction-by-height](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0406-queue-reconstruction-by-height) |
+| [0435-non-overlapping-intervals](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0621-task-scheduler) |
@@ -876,6 +879,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0435-non-overlapping-intervals) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0486-predict-the-winner](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0494-target-sum) |
