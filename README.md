@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2165-plates-between-candles](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2165-plates-between-candles) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2300-construct-string-with-repeat-limit) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2465-shifting-letters-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2465-shifting-letters-ii) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2300-construct-string-with-repeat-limit) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2530-minimize-maximum-of-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2530-minimize-maximum-of-array) |
@@ -561,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2139-detect-squares](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2139-detect-squares) |
 | [2161-stock-price-fluctuation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2161-stock-price-fluctuation) |
 | [2240-intervals-between-identical-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2240-intervals-between-identical-elements) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2300-construct-string-with-repeat-limit) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2721-sum-of-distances](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2721-sum-of-distances) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3751-maximum-frequency-after-subarray-operation) |
@@ -1011,6 +1014,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2139-detect-squares](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2139-detect-squares) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2300-construct-string-with-repeat-limit) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Heap (Priority Queue)
 |  |
@@ -1036,6 +1040,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2161-stock-price-fluctuation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2161-stock-price-fluctuation) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2300-construct-string-with-repeat-limit) |
 ## Enumeration
 |  |
 | ------- |
