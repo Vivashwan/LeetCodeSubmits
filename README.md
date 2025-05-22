@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-video-stitching](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1081-video-stitching) |
 | [1095-two-city-scheduling](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1095-two-city-scheduling) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1285-balance-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1285-balance-a-binary-search-tree) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -804,6 +805,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0975-range-sum-of-bst](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0975-range-sum-of-bst) |
+| [1285-balance-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1753-path-with-minimum-effort) |
@@ -1209,6 +1211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -1243,6 +1246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-insert-into-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0975-range-sum-of-bst) |
+| [1285-balance-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Search Tree
 |  |
@@ -1266,6 +1270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-insert-into-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0975-range-sum-of-bst) |
+| [1285-balance-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
@@ -1291,6 +1296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-insert-into-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0975-range-sum-of-bst) |
+| [1285-balance-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Iterator
 |  |
