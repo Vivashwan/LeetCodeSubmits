@@ -810,6 +810,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1030-smallest-string-starting-from-leaf](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -1262,6 +1263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1030-smallest-string-starting-from-leaf](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -1288,6 +1290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-insert-into-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0975-range-sum-of-bst) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
@@ -1318,6 +1321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1030-smallest-string-starting-from-leaf](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1427-all-elements-in-two-binary-search-trees) |
