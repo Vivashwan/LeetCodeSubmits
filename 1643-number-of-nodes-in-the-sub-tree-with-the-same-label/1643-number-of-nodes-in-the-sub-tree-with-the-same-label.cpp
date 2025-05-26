@@ -2,45 +2,41 @@ class Solution {
 private:
     vector<int> func(vector<vector<int>>&adj, string& labels, vector<int>&res, int ind)
     {
-        vector<int>ans(26, 0);
+        vector<int>labelCount(26, 0);
 
-        res[ind] = 1;
+        res[ind]=1, labelCount[labels[ind]-'a']++;
 
-        ans[labels[ind]-'a'] = 1;
-
-        for(int j=0; j<adj[ind].size(); j++)
+        for(auto it: adj[ind])
         {
-            if(!res[adj[ind][j]]) // if not parent
+            if(!res[it])
             {
-                vector<int>temp = func(adj, labels, res, adj[ind][j]);
-                
-                for(int k=0; k<26; k++)
+                vector<int>child=func(adj, labels, res, it);
+
+                for(int i=0; i<26; i++)
                 {
-                    ans[k]+=temp[k];
+                    labelCount[i]+=child[i];
                 }
             }
         }
 
-        res[ind] = ans[labels[ind]-'a'];
+        res[ind]=labelCount[labels[ind]-'a'];
 
-        return ans;
+        return labelCount;
     }
 public:
     vector<int> countSubTrees(int n, vector<vector<int>>& edges, string labels) {
-        vector<vector<int>>adj(n);
-
         vector<int>res(n, 0);
 
-        int m = edges.size();
+        vector<vector<int>>adj(n);
 
-        for(int i=0; i<m; i++)
+        for(auto it: edges)
         {
-            adj[edges[i][0]].push_back(edges[i][1]);
-            adj[edges[i][1]].push_back(edges[i][0]);
+            adj[it[0]].push_back(it[1]);
+            adj[it[1]].push_back(it[0]);
         }
 
-        func(adj, labels, res, 0);
+        func(adj, labels, res, 0);        
 
-        return res;
+        return res;   
     }
 };
