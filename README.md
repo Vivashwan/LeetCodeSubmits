@@ -351,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0690-employee-importance](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0690-employee-importance) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -523,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0690-employee-importance](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0690-employee-importance) |
 | [0740-delete-and-earn](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0778-reorganize-string) |
@@ -812,6 +814,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0669-trim-a-binary-search-tree) |
+| [0690-employee-importance](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0690-employee-importance) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0975-range-sum-of-bst](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0975-range-sum-of-bst) |
@@ -847,6 +850,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0662-maximum-width-of-binary-tree) |
+| [0690-employee-importance](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0690-employee-importance) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1035-cousins-in-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1035-cousins-in-binary-tree) |
@@ -1288,6 +1292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0669-trim-a-binary-search-tree) |
+| [0690-employee-importance](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0690-employee-importance) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0799-minimum-distance-between-bst-nodes) |
