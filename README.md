@@ -659,6 +659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-random-pick-with-weight](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0912-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1018-largest-perimeter-triangle) |
+| [1194-path-in-zigzag-labelled-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1236-n-th-tribonacci-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1240-stone-game-ii) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -1297,6 +1298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1194-path-in-zigzag-labelled-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -1367,6 +1369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1194-path-in-zigzag-labelled-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1544-count-good-nodes-in-binary-tree) |
