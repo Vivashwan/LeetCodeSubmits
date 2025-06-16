@@ -844,6 +844,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-deepest-leaves-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -1352,6 +1353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-deepest-leaves-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -1437,6 +1439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-deepest-leaves-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Iterator
