@@ -835,6 +835,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0975-range-sum-of-bst](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0988-flip-equivalent-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1005-univalued-binary-tree) |
+| [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -1347,6 +1348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0988-flip-equivalent-binary-trees](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1005-univalued-binary-tree) |
+| [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -1436,6 +1438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0988-flip-equivalent-binary-trees](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1005-univalued-binary-tree) |
+| [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
