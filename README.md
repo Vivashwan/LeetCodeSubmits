@@ -688,6 +688,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1879-maximum-score-from-removing-stones](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1879-maximum-score-from-removing-stones) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2050-count-good-numbers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2050-count-good-numbers) |
