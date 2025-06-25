@@ -329,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0221-maximal-square) |
@@ -710,6 +711,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0287-find-the-duplicate-number) |
