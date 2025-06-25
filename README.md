@@ -345,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0413-arithmetic-slices](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0486-predict-the-winner) |
@@ -718,6 +719,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0278-first-bad-version](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0300-longest-increasing-subsequence) |
+| [0436-find-right-interval](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0436-find-right-interval) |
 | [0658-find-k-closest-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0907-koko-eating-bananas) |
@@ -758,6 +760,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0368-largest-divisible-subset) |
 | [0406-queue-reconstruction-by-height](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0561-array-partition) |
