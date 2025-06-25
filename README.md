@@ -673,6 +673,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0069-sqrtx) |
 | [0264-ugly-number-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0486-predict-the-winner) |
@@ -713,6 +714,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0222-count-complete-tree-nodes) |
