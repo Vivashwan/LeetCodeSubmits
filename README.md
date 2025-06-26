@@ -323,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0120-triangle) |
@@ -716,6 +717,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0222-count-complete-tree-nodes) |
@@ -941,6 +943,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0221-maximal-square) |
 | [0891-score-after-flipping-matrix](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0891-score-after-flipping-matrix) |
 | [1239-largest-1-bordered-square](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1239-largest-1-bordered-square) |
