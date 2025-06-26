@@ -401,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1219-longest-well-performing-interval](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1219-longest-well-performing-interval) |
 | [1222-remove-covered-intervals](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1222-remove-covered-intervals) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1239-largest-1-bordered-square](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1239-largest-1-bordered-square) |
 | [1240-stone-game-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1240-stone-game-ii) |
 | [1242-matrix-block-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1242-matrix-block-sum) |
@@ -736,6 +737,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1087-longest-arithmetic-subsequence) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1307-ugly-number-iii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1307-ugly-number-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1321-get-equal-substrings-within-budget) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -785,6 +787,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-longest-string-chain](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1129-longest-string-chain) |
 | [1184-car-pooling](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1184-car-pooling) |
 | [1222-remove-covered-intervals](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1222-remove-covered-intervals) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1427-all-elements-in-two-binary-search-trees) |
