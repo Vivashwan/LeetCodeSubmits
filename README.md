@@ -530,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2240-intervals-between-identical-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2240-intervals-between-identical-elements) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2294-minimum-time-to-complete-trips](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2294-minimum-time-to-complete-trips) |
 | [2342-minimum-average-difference](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2358-number-of-ways-to-split-array) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
@@ -787,6 +788,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2118-maximum-earnings-from-taxi](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2118-maximum-earnings-from-taxi) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2165-plates-between-candles](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2165-plates-between-candles) |
+| [2294-minimum-time-to-complete-trips](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2294-minimum-time-to-complete-trips) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2530-minimize-maximum-of-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2530-minimize-maximum-of-array) |
