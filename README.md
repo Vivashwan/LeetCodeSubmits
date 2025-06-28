@@ -297,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0486-predict-the-winner) |
 | [0930-all-possible-full-binary-trees](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1013-fibonacci-number) |
@@ -689,6 +690,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0069-sqrtx) |
 | [0264-ugly-number-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0264-ugly-number-ii) |
