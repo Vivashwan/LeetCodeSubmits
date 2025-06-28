@@ -424,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1464-reduce-array-size-to-the-half) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1487-cinema-seat-allocation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1487-cinema-seat-allocation) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -760,6 +761,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1321-get-equal-substrings-within-budget](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1321-get-equal-substrings-within-budget) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1612-avoid-flood-in-the-city) |
@@ -981,6 +983,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1242-matrix-block-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1242-matrix-block-sum) |
 | [1324-where-will-the-ball-fall](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1324-where-will-the-ball-fall) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1628-count-submatrices-with-all-ones) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
