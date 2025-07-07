@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0032-longest-valid-parentheses) |
 | [0173-binary-search-tree-iterator](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0678-valid-parenthesis-string) |
 | [0933-increasing-order-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0933-increasing-order-search-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0436-find-right-interval](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0518-coin-change-ii) |
@@ -749,6 +751,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0441-arranging-coins) |
+| [0456-132-pattern](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0456-132-pattern) |
 | [0658-find-k-closest-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -1168,6 +1171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0456-132-pattern) |
 | [1219-longest-well-performing-interval](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1219-longest-well-performing-interval) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1361,6 +1365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0456-132-pattern) |
 | [2161-stock-price-fluctuation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2161-stock-price-fluctuation) |
 ## Randomized
 |  |
