@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0937-online-stock-span](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1002-maximum-width-ramp) |
 | [1219-longest-well-performing-interval](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1219-longest-well-performing-interval) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1628-count-submatrices-with-all-ones) |
@@ -404,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0943-sum-of-subarray-minimums](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0943-sum-of-subarray-minimums) |
 | [0947-online-election](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0947-online-election) |
 | [0966-binary-subarrays-with-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0966-binary-subarrays-with-sum) |
+| [1002-maximum-width-ramp](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1018-largest-perimeter-triangle) |
 | [1020-longest-turbulent-subarray](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1020-longest-turbulent-subarray) |
@@ -1173,6 +1175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0868-push-dominoes) |
 | [0917-boats-to-save-people](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0917-boats-to-save-people) |
+| [1002-maximum-width-ramp](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1002-maximum-width-ramp) |
 | [1129-longest-string-chain](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1129-longest-string-chain) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -1198,6 +1201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-car-fleet](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0943-sum-of-subarray-minimums) |
+| [1002-maximum-width-ramp](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1002-maximum-width-ramp) |
 | [1219-longest-well-performing-interval](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1219-longest-well-performing-interval) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1628-count-submatrices-with-all-ones) |
