@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0943-sum-of-subarray-minimums](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1002-maximum-width-ramp) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1219-longest-well-performing-interval](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1219-longest-well-performing-interval) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1628-count-submatrices-with-all-ones) |
@@ -411,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-longest-turbulent-subarray](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1046-max-consecutive-ones-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1081-video-stitching](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1081-video-stitching) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1087-longest-arithmetic-subsequence) |
@@ -1202,6 +1204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0937-online-stock-span](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1002-maximum-width-ramp) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1219-longest-well-performing-interval](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1219-longest-well-performing-interval) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1484,6 +1487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1035-cousins-in-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -1522,6 +1526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0975-range-sum-of-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -1576,6 +1581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-flip-binary-tree-to-match-preorder-traversal](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1011-flip-binary-tree-to-match-preorder-traversal) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1035-cousins-in-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
