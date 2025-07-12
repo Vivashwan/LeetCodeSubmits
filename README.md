@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2227-sum-of-subarray-ranges](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2227-sum-of-subarray-ranges) |
 ## Greedy
 |  |
 | ------- |
@@ -559,6 +560,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2155-find-missing-observations](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2155-find-missing-observations) |
 | [2165-plates-between-candles](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2165-plates-between-candles) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2205-find-good-days-to-rob-the-bank) |
+| [2227-sum-of-subarray-ranges](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2227-sum-of-subarray-ranges) |
 | [2240-intervals-between-identical-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2240-intervals-between-identical-elements) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2294-minimum-time-to-complete-trips) |
@@ -1225,6 +1227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1792-find-the-most-competitive-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1985-maximum-subarray-min-product](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1985-maximum-subarray-min-product) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2227-sum-of-subarray-ranges](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2227-sum-of-subarray-ranges) |
 ## Backtracking
 |  |
 | ------- |
