@@ -1,31 +1,31 @@
 class Solution {
 public:
     int nthUglyNumber(int n) {
-        priority_queue<long, vector<long>, greater<long>> minHeap;
-        unordered_set<long> seen;
-        
-        minHeap.push(1);
+        priority_queue<long, vector<long>, greater<long>>pq;
+        unordered_set<long>seen;
+
+        pq.push(1);
         seen.insert(1);
-        
-        long ugly = 1;
-        int factors[] = {2, 3, 5};
-        
-        for(int i=1; i<=n; i++) 
+
+        long currentUgly;
+
+        for(int i=1; i<=n; i++)
         {
-            ugly = minHeap.top();
-            minHeap.pop();
-            
-            for(int factor : factors) 
+            currentUgly=pq.top();
+            pq.pop();
+
+            for(auto it: {2, 3, 5})
             {
-                long nextUgly = ugly*factor;
-                if(!seen.count(nextUgly)) 
+                long nextUgly=currentUgly*it;
+
+                if(seen.find(nextUgly)==seen.end())
                 {
                     seen.insert(nextUgly);
-                    minHeap.push(nextUgly);
+                    pq.push(nextUgly);
                 }
             }
         }
-        
-        return ugly;
-    }   
+
+        return (int)currentUgly;
+    }
 };
