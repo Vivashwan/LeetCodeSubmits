@@ -426,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0947-online-election](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0947-online-election) |
 | [0966-binary-subarrays-with-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0966-binary-subarrays-with-sum) |
 | [1002-maximum-width-ramp](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1002-maximum-width-ramp) |
+| [1014-k-closest-points-to-origin](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1018-largest-perimeter-triangle) |
 | [1020-longest-turbulent-subarray](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1020-longest-turbulent-subarray) |
@@ -753,6 +754,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0909-stone-game](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0909-stone-game) |
 | [0912-random-pick-with-weight](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0912-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1018-largest-perimeter-triangle) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1236-n-th-tribonacci-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1236-n-th-tribonacci-number) |
@@ -866,6 +868,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0917-boats-to-save-people) |
+| [1014-k-closest-points-to-origin](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1095-two-city-scheduling](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1095-two-city-scheduling) |
@@ -1295,6 +1298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1014-k-closest-points-to-origin](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1184-car-pooling) |
 | [1304-longest-happy-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1304-longest-happy-string) |
@@ -1431,6 +1435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1014-k-closest-points-to-origin) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 ## Counting Sort
 |  |
@@ -1474,6 +1479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0654-maximum-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1014-k-closest-points-to-origin](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1014-k-closest-points-to-origin) |
 | [1285-balance-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Indexed Tree
 |  |
@@ -1670,4 +1676,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
