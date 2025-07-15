@@ -370,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0347-top-k-frequent-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0377-combination-sum-iv) |
@@ -593,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0523-continuous-subarray-sum) |
@@ -845,6 +847,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0406-queue-reconstruction-by-height](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0406-queue-reconstruction-by-height) |
@@ -1260,6 +1263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0692-top-k-frequent-words) |
@@ -1280,6 +1284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0621-task-scheduler) |
@@ -1464,6 +1469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0654-maximum-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1285-balance-a-binary-search-tree) |
@@ -1654,10 +1660,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
