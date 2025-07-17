@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1792-find-the-most-competitive-subsequence) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1985-maximum-subarray-min-product](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1985-maximum-subarray-min-product) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1684-find-latest-group-of-size-m](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1684-find-latest-group-of-size-m) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -508,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1803-average-waiting-time) |
 | [1813-maximum-erasure-value](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1813-maximum-erasure-value) |
 | [1814-jump-game-vi](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1814-jump-game-vi) |
@@ -1366,6 +1369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0232-implement-queue-using-stacks) |
 | [1767-design-front-middle-back-queue](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1767-design-front-middle-back-queue) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1814-jump-game-vi](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1814-jump-game-vi) |
 ## Data Stream
 |  |
