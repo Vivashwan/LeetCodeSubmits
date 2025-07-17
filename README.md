@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0032-longest-valid-parentheses) |
 | [0173-binary-search-tree-iterator](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0496-next-greater-element-i) |
@@ -1344,6 +1345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0303-range-sum-query-immutable) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0449-serialize-and-deserialize-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1359,6 +1361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0225-implement-stack-using-queues) |
 | [1767-design-front-middle-back-queue](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1767-design-front-middle-back-queue) |
 | [1814-jump-game-vi](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1814-jump-game-vi) |
 ## Data Stream
