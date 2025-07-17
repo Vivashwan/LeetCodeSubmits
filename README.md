@@ -416,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0747-min-cost-climbing-stairs) |
 | [0769-largest-plus-sign](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0769-largest-plus-sign) |
+| [0860-design-circular-queue](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0860-design-circular-queue) |
 | [0878-shifting-letters](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0883-car-fleet) |
@@ -1344,6 +1345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0860-design-circular-queue](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0860-design-circular-queue) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1072-next-greater-node-in-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1765-merge-in-between-linked-lists) |
 | [1767-design-front-middle-back-queue](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1767-design-front-middle-back-queue) |
@@ -1359,6 +1361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0341-flatten-nested-list-iterator](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0341-flatten-nested-list-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0449-serialize-and-deserialize-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0860-design-circular-queue](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0937-online-stock-span) |
 | [0947-online-election](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0947-online-election) |
 | [1023-time-based-key-value-store](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1023-time-based-key-value-store) |
@@ -1374,6 +1377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0341-flatten-nested-list-iterator) |
+| [0860-design-circular-queue](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0860-design-circular-queue) |
 | [1767-design-front-middle-back-queue](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1767-design-front-middle-back-queue) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1814-jump-game-vi](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1814-jump-game-vi) |
