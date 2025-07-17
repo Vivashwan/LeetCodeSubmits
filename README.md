@@ -346,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2155-find-missing-observations](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2155-find-missing-observations) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2195-time-needed-to-buy-tickets) |
 ## Array
 |  |
 | ------- |
@@ -576,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2155-find-missing-observations](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2155-find-missing-observations) |
 | [2165-plates-between-candles](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2165-plates-between-candles) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2195-time-needed-to-buy-tickets) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2227-sum-of-subarray-ranges](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2227-sum-of-subarray-ranges) |
 | [2240-intervals-between-identical-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2240-intervals-between-identical-elements) |
@@ -1371,6 +1373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1767-design-front-middle-back-queue](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1767-design-front-middle-back-queue) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1814-jump-game-vi](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1814-jump-game-vi) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2195-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
 | ------- |
