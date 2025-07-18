@@ -606,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2714-left-and-right-sum-differences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2714-left-and-right-sum-differences) |
 | [2721-sum-of-distances](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2721-sum-of-distances) |
 | [2868-continuous-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2868-continuous-subarrays) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3483-alternating-groups-ii) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3751-maximum-frequency-after-subarray-operation) |
@@ -754,6 +755,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2714-left-and-right-sum-differences) |
 | [2721-sum-of-distances](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2721-sum-of-distances) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Math
@@ -951,6 +953,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2078-maximum-compatibility-score-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2078-maximum-compatibility-score-sum) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2656-count-the-number-of-beautiful-subarrays) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1115,6 +1118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2868-continuous-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2868-continuous-subarrays) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3483-alternating-groups-ii) |
 ## Dynamic Programming
 |  |
@@ -1401,6 +1405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2195-time-needed-to-buy-tickets](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2195-time-needed-to-buy-tickets) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2868-continuous-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2868-continuous-subarrays) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Data Stream
 |  |
 | ------- |
