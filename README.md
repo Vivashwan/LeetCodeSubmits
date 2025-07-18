@@ -352,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2155-find-missing-observations](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2155-find-missing-observations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2195-time-needed-to-buy-tickets) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Array
 |  |
 | ------- |
@@ -1211,6 +1212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2118-maximum-earnings-from-taxi](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2118-maximum-earnings-from-taxi) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2325-number-of-ways-to-select-buildings) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2504-find-all-good-indices](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2504-find-all-good-indices) |
 | [2530-minimize-maximum-of-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2530-minimize-maximum-of-array) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3751-maximum-frequency-after-subarray-operation) |
@@ -1394,6 +1396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1814-jump-game-vi](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1814-jump-game-vi) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2195-time-needed-to-buy-tickets) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Data Stream
 |  |
 | ------- |
