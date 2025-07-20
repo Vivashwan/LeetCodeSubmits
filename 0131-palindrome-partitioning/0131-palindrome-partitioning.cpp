@@ -8,26 +8,26 @@ private:
             {
                 return false;
             }
-            start++, end--;
+
+            start++; end--;
         }
 
         return true;
     }
 
-    void func(int ind, string s, vector<vector<string>>&res, vector<string>&temp, int n)
+    void palindromePartitioning(int index, string s, vector<string>&temp, vector<vector<string>>&res)
     {
-        if(ind==n)
+        if(index==s.size())
         {
             res.push_back(temp);
-            return;
         }
 
-        for(int i=ind; i<n; i++)
+        for(int i=index; i<s.size(); i++)
         {
-            if(isPalindrome(s, ind, i))
+            if(isPalindrome(s, index, i))
             {
-                temp.push_back(s.substr(ind, i-ind+1));
-                func(i+1, s, res, temp, n);
+                temp.push_back(s.substr(index, i-index+1));
+                palindromePartitioning(i+1, s, temp, res);
                 temp.pop_back();
             }
         }
@@ -38,7 +38,7 @@ public:
 
         vector<string>temp;
 
-        func(0, s, res, temp, s.size());
+        palindromePartitioning(0, s, temp, res);
 
         return res;
     }
