@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2165-plates-between-candles](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2165-plates-between-candles) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2300-construct-string-with-repeat-limit) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2325-number-of-ways-to-select-buildings) |
+| [2348-count-number-of-texts](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2348-count-number-of-texts) |
 | [2465-shifting-letters-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2465-shifting-letters-ii) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2576-minimum-penalty-for-a-shop) |
@@ -701,6 +702,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-stock-price-fluctuation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2161-stock-price-fluctuation) |
 | [2240-intervals-between-identical-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2240-intervals-between-identical-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2300-construct-string-with-repeat-limit) |
+| [2348-count-number-of-texts](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2348-count-number-of-texts) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2721-sum-of-distances](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2721-sum-of-distances) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3751-maximum-frequency-after-subarray-operation) |
@@ -821,6 +823,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2155-find-missing-observations](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2155-find-missing-observations) |
+| [2348-count-number-of-texts](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2348-count-number-of-texts) |
 | [2571-find-the-pivot-integer](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2571-find-the-pivot-integer) |
 ## Binary Search
 |  |
@@ -1250,6 +1253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2118-maximum-earnings-from-taxi](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2118-maximum-earnings-from-taxi) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2325-number-of-ways-to-select-buildings) |
+| [2348-count-number-of-texts](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2348-count-number-of-texts) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2504-find-all-good-indices](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2504-find-all-good-indices) |
 | [2530-minimize-maximum-of-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2530-minimize-maximum-of-array) |
