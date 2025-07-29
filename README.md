@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2044-number-of-wonderful-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2107-find-unique-binary-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2107-find-unique-binary-string) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -590,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2102-find-the-middle-index-in-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2102-find-the-middle-index-in-array) |
 | [2103-find-all-groups-of-farmland](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2103-find-all-groups-of-farmland) |
+| [2107-find-unique-binary-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2117-find-original-array-from-doubled-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2118-maximum-earnings-from-taxi) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -690,6 +692,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2044-number-of-wonderful-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2044-number-of-wonderful-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2117-find-original-array-from-doubled-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2118-maximum-earnings-from-taxi) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -1334,6 +1337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1900-closest-dessert-cost](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1900-closest-dessert-cost) |
 | [2078-maximum-compatibility-score-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2078-maximum-compatibility-score-sum) |
+| [2107-find-unique-binary-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2107-find-unique-binary-string) |
 ## Counting
 |  |
 | ------- |
