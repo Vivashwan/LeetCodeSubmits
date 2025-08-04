@@ -338,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0486-predict-the-winner) |
 | [0930-all-possible-full-binary-trees](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0930-all-possible-full-binary-trees) |
@@ -1422,6 +1423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0021-merge-two-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0859-design-circular-deque](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0859-design-circular-deque) |
