@@ -341,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0486-predict-the-winner) |
 | [0930-all-possible-full-binary-trees](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1013-fibonacci-number) |
@@ -1434,6 +1435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0206-reverse-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0206-reverse-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0859-design-circular-deque](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0860-design-circular-queue) |
