@@ -905,6 +905,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0047-permutations-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0047-permutations-ii) |
 | [0147-insertion-sort-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0368-largest-divisible-subset) |
@@ -1285,6 +1286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0455-assign-cookies) |
@@ -1455,6 +1457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0206-reverse-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0859-design-circular-deque](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0859-design-circular-deque) |
@@ -1620,6 +1623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0347-top-k-frequent-elements) |
@@ -1837,4 +1841,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0146-lru-cache) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
