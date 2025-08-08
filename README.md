@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0234-palindrome-linked-list) |
 | [0341-flatten-nested-list-iterator](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0341-flatten-nested-list-iterator) |
 | [0402-remove-k-digits](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -804,6 +805,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0368-largest-divisible-subset) |
 | [0382-linked-list-random-node](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0382-linked-list-random-node) |
 | [0441-arranging-coins](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0523-continuous-subarray-sum) |
 | [0738-monotone-increasing-digits](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0738-monotone-increasing-digits) |
@@ -1470,6 +1472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0237-delete-node-in-a-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0382-linked-list-random-node) |
+| [0445-add-two-numbers-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0859-design-circular-deque](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0860-design-circular-queue) |
