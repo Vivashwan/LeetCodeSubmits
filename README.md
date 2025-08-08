@@ -447,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0747-min-cost-climbing-stairs) |
 | [0769-largest-plus-sign](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0769-largest-plus-sign) |
+| [0831-largest-sum-of-averages](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0831-largest-sum-of-averages) |
 | [0859-design-circular-deque](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0860-design-circular-queue) |
 | [0878-shifting-letters](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0878-shifting-letters) |
@@ -730,6 +731,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0724-find-pivot-index) |
+| [0831-largest-sum-of-averages](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0831-largest-sum-of-averages) |
 | [0878-shifting-letters](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0878-shifting-letters) |
 | [0912-random-pick-with-weight](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0912-random-pick-with-weight) |
 | [0966-binary-subarrays-with-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0966-binary-subarrays-with-sum) |
@@ -1231,6 +1233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0747-min-cost-climbing-stairs) |
 | [0769-largest-plus-sign](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0769-largest-plus-sign) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0831-largest-sum-of-averages](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0831-largest-sum-of-averages) |
 | [0868-push-dominoes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0909-stone-game](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0909-stone-game) |
