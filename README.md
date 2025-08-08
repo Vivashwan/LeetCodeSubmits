@@ -802,6 +802,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0069-sqrtx) |
 | [0264-ugly-number-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0368-largest-divisible-subset) |
+| [0382-linked-list-random-node](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0382-linked-list-random-node) |
 | [0441-arranging-coins](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0523-continuous-subarray-sum) |
@@ -1468,6 +1469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0382-linked-list-random-node) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0859-design-circular-deque](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0860-design-circular-queue) |
@@ -1617,6 +1619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Randomized
 |  |
 | ------- |
+| [0382-linked-list-random-node](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0382-linked-list-random-node) |
 | [0912-random-pick-with-weight](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0912-random-pick-with-weight) |
 ## Memoization
 |  |
@@ -1854,4 +1857,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0148-sort-list) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
