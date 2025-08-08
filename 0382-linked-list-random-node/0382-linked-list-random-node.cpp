@@ -12,6 +12,7 @@ class Solution {
 private:
     vector<int>v;
     ListNode* curr;
+    
 public:
     Solution(ListNode* head) {
         curr = head;
