@@ -642,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0160-intersection-of-two-linked-lists) |
 | [0264-ugly-number-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0451-sort-characters-by-frequency) |
@@ -1287,6 +1288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0086-partition-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0455-assign-cookies) |
@@ -1458,6 +1460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0206-reverse-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0859-design-circular-deque](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0859-design-circular-deque) |
