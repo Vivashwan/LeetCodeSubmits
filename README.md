@@ -448,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0747-min-cost-climbing-stairs) |
 | [0769-largest-plus-sign](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0769-largest-plus-sign) |
 | [0816-design-hashset](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0817-design-hashmap) |
 | [0831-largest-sum-of-averages](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0831-largest-sum-of-averages) |
 | [0859-design-circular-deque](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0860-design-circular-queue) |
@@ -663,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0778-reorganize-string) |
 | [0816-design-hashset](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0817-design-hashmap) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -1480,6 +1482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0860-design-circular-queue) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1072-next-greater-node-in-linked-list) |
@@ -1499,6 +1502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0449-serialize-and-deserialize-bst](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0449-serialize-and-deserialize-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0937-online-stock-span) |
@@ -1875,4 +1879,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
