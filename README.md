@@ -1498,6 +1498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-design-browser-history](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1582-design-browser-history) |
 | [1765-merge-in-between-linked-lists](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1765-merge-in-between-linked-lists) |
 | [1767-design-front-middle-back-queue](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1767-design-front-middle-back-queue) |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2573-remove-nodes-from-linked-list) |
 ## Design
