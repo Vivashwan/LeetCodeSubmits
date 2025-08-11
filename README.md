@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1219-longest-well-performing-interval](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1219-longest-well-performing-interval) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1582-design-browser-history](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1582-design-browser-history) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1628-count-submatrices-with-all-ones) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -516,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1582-design-browser-history](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1612-avoid-flood-in-the-city) |
@@ -1493,6 +1495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1072-next-greater-node-in-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1072-next-greater-node-in-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1484-linked-list-in-binary-tree) |
+| [1582-design-browser-history](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1582-design-browser-history) |
 | [1765-merge-in-between-linked-lists](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1765-merge-in-between-linked-lists) |
 | [1767-design-front-middle-back-queue](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1767-design-front-middle-back-queue) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2374-steps-to-make-array-non-decreasing) |
@@ -1516,6 +1519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0947-online-election](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0947-online-election) |
 | [1023-time-based-key-value-store](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1249-snapshot-array) |
+| [1582-design-browser-history](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1582-design-browser-history) |
 | [1767-design-front-middle-back-queue](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1767-design-front-middle-back-queue) |
 | [1955-seat-reservation-manager](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1955-seat-reservation-manager) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -1543,6 +1547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0937-online-stock-span) |
+| [1582-design-browser-history](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1582-design-browser-history) |
 | [1767-design-front-middle-back-queue](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1767-design-front-middle-back-queue) |
 | [2161-stock-price-fluctuation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2161-stock-price-fluctuation) |
 ## Monotonic Queue
@@ -1876,6 +1881,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0146-lru-cache) |
+| [1582-design-browser-history](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1582-design-browser-history) |
 ## Merge Sort
 |  |
 | ------- |
