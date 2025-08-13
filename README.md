@@ -375,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2195-time-needed-to-buy-tickets](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2195-time-needed-to-buy-tickets) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2411-spiral-matrix-iv](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2411-spiral-matrix-iv) |
 ## Array
 |  |
 | ------- |
@@ -632,6 +633,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2358-number-of-ways-to-split-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2358-number-of-ways-to-split-array) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2374-steps-to-make-array-non-decreasing) |
+| [2411-spiral-matrix-iv](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2411-spiral-matrix-iv) |
 | [2465-shifting-letters-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2465-shifting-letters-ii) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -1158,6 +1160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-maximum-matrix-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2089-maximum-matrix-sum) |
 | [2103-find-all-groups-of-farmland](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2103-find-all-groups-of-farmland) |
 | [2145-grid-game](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2145-grid-game) |
+| [2411-spiral-matrix-iv](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2411-spiral-matrix-iv) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Game Theory
 |  |
@@ -1505,6 +1508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2374-steps-to-make-array-non-decreasing) |
+| [2411-spiral-matrix-iv](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2411-spiral-matrix-iv) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2573-remove-nodes-from-linked-list) |
 ## Design
 |  |
