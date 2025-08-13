@@ -373,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2155-find-missing-observations](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2155-find-missing-observations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2195-time-needed-to-buy-tickets) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Array
 |  |
@@ -1502,6 +1503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1767-design-front-middle-back-queue](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1767-design-front-middle-back-queue) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2573-remove-nodes-from-linked-list) |
 ## Design
