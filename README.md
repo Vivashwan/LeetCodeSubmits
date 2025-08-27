@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
@@ -720,6 +721,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1830-count-good-meals](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1830-count-good-meals) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1945-finding-the-users-active-minutes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1945-finding-the-users-active-minutes) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -1420,6 +1422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1502-construct-k-palindrome-strings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1502-construct-k-palindrome-strings) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1983-maximum-population-year](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1983-maximum-population-year) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
