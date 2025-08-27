@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1281-can-make-palindrome-from-substring](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1281-can-make-palindrome-from-substring) |
 | [1304-longest-happy-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1304-longest-happy-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1321-get-equal-substrings-within-budget) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -693,6 +694,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1370-count-number-of-nice-subarrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1464-reduce-array-size-to-the-half) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1487-cinema-seat-allocation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1487-cinema-seat-allocation) |
@@ -1184,6 +1186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1370-count-number-of-nice-subarrays) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
