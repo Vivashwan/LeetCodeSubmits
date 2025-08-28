@@ -2,28 +2,30 @@ class Solution {
 public:
     int maxProduct(vector<string>& words) {
         int n=words.size();
+        vector<int>mask(n), len(n);
+
+        for(int i=0; i<n; i++)
+        {
+            int m=0;
+
+            for(char c:words[i]) 
+            {
+                m|=(1<<(c-'a'));
+            }
+
+            mask[i]=m;
+            len[i]=words[i].size();
+        }
+
         int res=0;
 
         for(int i=0; i<n; i++) 
         {
-            unordered_set<char>s(words[i].begin(), words[i].end());
-
             for(int j=i+1; j<n; j++) 
             {
-                bool share=false;
-
-                for(char c: words[j]) 
+                if((mask[i] & mask[j])==0) 
                 {
-                    if(s.count(c)) 
-                    {
-                        share=true;
-                        break;
-                    }
-                }
-
-                if(!share) 
-                {
-                    res=max(res, (int)words[i].size()*(int)words[j].size());
+                    res=max(res, len[i]*len[j]);
                 }
             }
         }
