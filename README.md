@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0132-palindrome-partitioning-ii) |
 | [0257-binary-tree-paths](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0257-binary-tree-paths) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0318-maximum-product-of-word-lengths) |
 | [0392-is-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0409-longest-palindrome) |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -1017,6 +1019,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0318-maximum-product-of-word-lengths) |
 | [0638-shopping-offers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0800-letter-case-permutation) |
