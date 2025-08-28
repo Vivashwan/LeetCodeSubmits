@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1678-number-of-ways-to-split-a-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1678-number-of-ways-to-split-a-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1628-count-submatrices-with-all-ones](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1628-count-submatrices-with-all-ones) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1802-number-of-students-unable-to-eat-lunch) |
