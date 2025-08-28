@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0800-letter-case-permutation) |
 | [0807-custom-sort-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0807-custom-sort-string) |
+| [0808-number-of-matching-subsequences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0808-number-of-matching-subsequences) |
 | [0868-push-dominoes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0868-push-dominoes) |
 | [0878-shifting-letters](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0878-shifting-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -459,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0747-min-cost-climbing-stairs) |
 | [0769-largest-plus-sign](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0769-largest-plus-sign) |
+| [0808-number-of-matching-subsequences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0808-number-of-matching-subsequences) |
 | [0816-design-hashset](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0817-design-hashmap) |
 | [0831-largest-sum-of-averages](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0831-largest-sum-of-averages) |
@@ -679,6 +681,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0807-custom-sort-string) |
+| [0808-number-of-matching-subsequences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0808-number-of-matching-subsequences) |
 | [0816-design-hashset](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0817-design-hashmap) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -890,6 +893,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0808-number-of-matching-subsequences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0808-number-of-matching-subsequences) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0912-random-pick-with-weight) |
@@ -957,6 +961,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0807-custom-sort-string) |
+| [0808-number-of-matching-subsequences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0808-number-of-matching-subsequences) |
 | [0883-car-fleet](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1014-k-closest-points-to-origin) |
@@ -1262,6 +1267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0747-min-cost-climbing-stairs) |
 | [0769-largest-plus-sign](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0769-largest-plus-sign) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0808-number-of-matching-subsequences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0808-number-of-matching-subsequences) |
 | [0831-largest-sum-of-averages](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0831-largest-sum-of-averages) |
 | [0868-push-dominoes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -1896,6 +1902,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0692-top-k-frequent-words) |
+| [0808-number-of-matching-subsequences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0808-number-of-matching-subsequences) |
 ## Bucket Sort
 |  |
 | ------- |
