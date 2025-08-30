@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0132-palindrome-partitioning-ii) |
 | [0205-isomorphic-strings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0257-binary-tree-paths) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0318-maximum-product-of-word-lengths) |
 | [0392-is-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0392-is-subsequence) |
@@ -682,6 +683,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0409-longest-palindrome) |
@@ -963,6 +965,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0147-insertion-sort-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
