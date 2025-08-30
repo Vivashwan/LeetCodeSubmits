@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1743-count-substrings-that-differ-by-one-character) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1782-smallest-string-with-a-given-numeric-value) |
@@ -727,6 +728,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1694-make-sum-divisible-by-p](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1743-count-substrings-that-differ-by-one-character) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1752-arithmetic-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1752-arithmetic-subarrays) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
