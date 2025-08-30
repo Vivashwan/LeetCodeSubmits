@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2027-maximum-number-of-removable-characters) |
+| [2032-largest-odd-number-in-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2032-largest-odd-number-in-string) |
 | [2044-number-of-wonderful-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2032-largest-odd-number-in-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2032-largest-odd-number-in-string) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -880,6 +882,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [2032-largest-odd-number-in-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2050-count-good-numbers) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
