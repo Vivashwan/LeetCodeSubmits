@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1250-longest-common-subsequence) |
+| [1252-break-a-palindrome](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1252-break-a-palindrome) |
 | [1281-can-make-palindrome-from-substring](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1281-can-make-palindrome-from-substring) |
 | [1304-longest-happy-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1304-longest-happy-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1321-get-equal-substrings-within-budget) |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1095-two-city-scheduling](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1095-two-city-scheduling) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1252-break-a-palindrome](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1252-break-a-palindrome) |
 | [1285-balance-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1285-balance-a-binary-search-tree) |
 | [1304-longest-happy-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1304-longest-happy-string) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
