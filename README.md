@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1304-longest-happy-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1304-longest-happy-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1321-get-equal-substrings-within-budget) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1502-construct-k-palindrome-strings) |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1219-longest-well-performing-interval](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1219-longest-well-performing-interval) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1582-design-browser-history) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1628-count-submatrices-with-all-ones) |
