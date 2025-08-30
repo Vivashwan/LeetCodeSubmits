@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -578,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1767-design-front-middle-back-queue](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1767-design-front-middle-back-queue) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1783-ways-to-make-a-fair-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1792-find-the-most-competitive-subsequence) |
