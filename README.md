@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0808-number-of-matching-subsequences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0808-number-of-matching-subsequences) |
 | [0868-push-dominoes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0868-push-dominoes) |
 | [0878-shifting-letters](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0878-shifting-letters) |
+| [0886-score-of-parentheses](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0886-score-of-parentheses) |
 | [0889-buddy-strings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0889-buddy-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1023-time-based-key-value-store](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1023-time-based-key-value-store) |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0883-car-fleet) |
+| [0886-score-of-parentheses](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0886-score-of-parentheses) |
 | [0933-increasing-order-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0933-increasing-order-search-tree) |
 | [0937-online-stock-span](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0943-sum-of-subarray-minimums) |
