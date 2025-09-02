@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0079-word-search) |
@@ -1361,6 +1362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0086-partition-list) |
@@ -1975,5 +1977,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
