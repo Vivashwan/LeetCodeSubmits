@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0800-letter-case-permutation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0800-letter-case-permutation) |
 | [0807-custom-sort-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0807-custom-sort-string) |
 | [0808-number-of-matching-subsequences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0808-number-of-matching-subsequences) |
+| [0812-rotate-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0868-push-dominoes) |
 | [0878-shifting-letters](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0878-shifting-letters) |
 | [0886-score-of-parentheses](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0886-score-of-parentheses) |
@@ -1971,4 +1972,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0816-design-hashset](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0817-design-hashmap) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
