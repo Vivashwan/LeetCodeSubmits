@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0132-palindrome-partitioning-ii) |
+| [0187-repeated-dna-sequences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0257-binary-tree-paths) |
@@ -692,6 +693,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0160-intersection-of-two-linked-lists) |
+| [0187-repeated-dna-sequences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0264-ugly-number-ii) |
@@ -1050,6 +1052,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0318-maximum-product-of-word-lengths) |
@@ -1230,6 +1233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0187-repeated-dna-sequences) |
 | [0413-arithmetic-slices](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0413-arithmetic-slices) |
 | [0658-find-k-closest-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0713-subarray-product-less-than-k) |
@@ -1974,6 +1978,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0187-repeated-dna-sequences) |
 | [0816-design-hashset](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0817-design-hashmap) |
 ## String Matching
@@ -1981,4 +1986,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0812-rotate-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
