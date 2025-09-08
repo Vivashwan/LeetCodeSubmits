@@ -1052,6 +1052,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0813-all-paths-from-source-to-target) |
 | [1039-find-the-town-judge](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1039-find-the-town-judge) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1738-maximal-network-rank](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1738-maximal-network-rank) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
@@ -1349,6 +1350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1299-k-concatenation-maximum-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1299-k-concatenation-maximum-sum) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1662,6 +1664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 ## Database
 |  |
