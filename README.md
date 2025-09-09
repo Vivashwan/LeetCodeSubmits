@@ -583,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1694-make-sum-divisible-by-p](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1694-make-sum-divisible-by-p) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1706-min-cost-to-connect-all-points) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1748-best-team-with-no-conflicts](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1748-best-team-with-no-conflicts) |
@@ -1055,6 +1056,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1039-find-the-town-judge](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1039-find-the-town-judge) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1706-min-cost-to-connect-all-points) |
 | [1738-maximal-network-rank](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1738-maximal-network-rank) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2151-the-time-when-the-network-becomes-idle) |
@@ -1203,6 +1205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2035-count-sub-islands) |
 ## Matrix
@@ -2014,4 +2017,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0187-repeated-dna-sequences) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
