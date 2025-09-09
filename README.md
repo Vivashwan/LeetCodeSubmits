@@ -550,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1364-tuple-with-same-product](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1370-count-number-of-nice-subarrays) |
+| [1380-number-of-closed-islands](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1380-number-of-closed-islands) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -1145,6 +1146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1285-balance-a-binary-search-tree) |
+| [1380-number-of-closed-islands](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1380-number-of-closed-islands) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1484-linked-list-in-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1484-linked-list-in-binary-tree) |
@@ -1195,6 +1197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1254-deepest-leaves-sum) |
+| [1380-number-of-closed-islands](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1380-number-of-closed-islands) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -1211,6 +1214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0547-number-of-provinces) |
 | [0999-regions-cut-by-slashes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1073-number-of-enclaves) |
+| [1380-number-of-closed-islands](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1380-number-of-closed-islands) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1753-path-with-minimum-effort) |
@@ -1235,6 +1239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1242-matrix-block-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1242-matrix-block-sum) |
 | [1324-where-will-the-ball-fall](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1324-where-will-the-ball-fall) |
 | [1331-path-with-maximum-gold](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1331-path-with-maximum-gold) |
+| [1380-number-of-closed-islands](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1380-number-of-closed-islands) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1628-count-submatrices-with-all-ones) |
