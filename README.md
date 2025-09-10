@@ -545,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1299-k-concatenation-maximum-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1299-k-concatenation-maximum-sum) |
 | [1324-where-will-the-ball-fall](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1324-where-will-the-ball-fall) |
+| [1325-path-with-maximum-probability](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1325-path-with-maximum-probability) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1331-path-with-maximum-gold](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1331-path-with-maximum-gold) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -1058,6 +1059,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0813-all-paths-from-source-to-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1039-find-the-town-judge) |
+| [1325-path-with-maximum-probability](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1706-min-cost-to-connect-all-points) |
@@ -1547,6 +1549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1127-last-stone-weight](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1184-car-pooling) |
 | [1304-longest-happy-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1304-longest-happy-string) |
+| [1325-path-with-maximum-probability](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1325-path-with-maximum-probability) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1464-reduce-array-size-to-the-half) |
 | [1612-avoid-flood-in-the-city](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1753-path-with-minimum-effort) |
@@ -1689,6 +1692,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1325-path-with-maximum-probability](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 ## Database
