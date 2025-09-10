@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0257-binary-tree-paths) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0318-maximum-product-of-word-lengths) |
 | [0392-is-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0409-longest-palindrome) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0449-serialize-and-deserialize-bst) |
@@ -451,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0376-wiggle-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0399-evaluate-division](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0406-queue-reconstruction-by-height) |
 | [0413-arithmetic-slices](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0416-partition-equal-subset-sum) |
@@ -1053,6 +1055,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0684-redundant-connection) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -1108,6 +1111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0341-flatten-nested-list-iterator) |
+| [0399-evaluate-division](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0437-path-sum-iii) |
@@ -1174,6 +1178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0399-evaluate-division](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0463-island-perimeter) |
@@ -1219,6 +1224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0684-redundant-connection) |
 | [0999-regions-cut-by-slashes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0999-regions-cut-by-slashes) |
@@ -1694,6 +1700,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0399-evaluate-division) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
