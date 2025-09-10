@@ -435,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0216-combination-sum-iii) |
@@ -1107,6 +1108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0200-number-of-islands](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0257-binary-tree-paths) |
@@ -1178,6 +1180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0200-number-of-islands](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0449-serialize-and-deserialize-bst) |
@@ -1224,6 +1227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0684-redundant-connection) |
@@ -1241,6 +1245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
