@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0692-top-k-frequent-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0753-open-the-lock](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0800-letter-case-permutation) |
@@ -490,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0740-delete-and-earn](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0740-delete-and-earn) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0747-min-cost-climbing-stairs) |
+| [0753-open-the-lock](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0753-open-the-lock) |
 | [0769-largest-plus-sign](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0769-largest-plus-sign) |
 | [0808-number-of-matching-subsequences](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0808-number-of-matching-subsequences) |
 | [0816-design-hashset](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0816-design-hashset) |
@@ -722,6 +724,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0690-employee-importance](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0692-top-k-frequent-words) |
 | [0740-delete-and-earn](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0740-delete-and-earn) |
+| [0753-open-the-lock](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0807-custom-sort-string) |
@@ -1205,6 +1208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0690-employee-importance) |
+| [0753-open-the-lock](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0753-open-the-lock) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0799-minimum-distance-between-bst-nodes) |
