@@ -735,6 +735,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0947-online-election](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0947-online-election) |
 | [0966-binary-subarrays-with-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0966-binary-subarrays-with-sum) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1023-time-based-key-value-store) |
@@ -1064,6 +1065,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0820-find-eventual-safe-states) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -1145,6 +1147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-leaf-similar-trees](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0975-range-sum-of-bst) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0999-regions-cut-by-slashes) |
 | [1005-univalued-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1005-univalued-binary-tree) |
@@ -1235,6 +1238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0684-redundant-connection) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1380-number-of-closed-islands) |
