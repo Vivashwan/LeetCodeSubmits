@@ -1071,6 +1071,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0684-redundant-connection) |
+| [0801-is-graph-bipartite](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0820-find-eventual-safe-states) |
@@ -1151,6 +1152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0721-accounts-merge) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0801-is-graph-bipartite](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0820-find-eventual-safe-states) |
@@ -1223,6 +1225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0801-is-graph-bipartite](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0820-find-eventual-safe-states) |
@@ -1260,6 +1263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0721-accounts-merge) |
+| [0801-is-graph-bipartite](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1073-number-of-enclaves) |
