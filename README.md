@@ -517,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0943-sum-of-subarray-minimums](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0943-sum-of-subarray-minimums) |
 | [0947-online-election](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0947-online-election) |
 | [0966-binary-subarrays-with-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0966-binary-subarrays-with-sum) |
+| [0971-shortest-bridge](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1014-k-closest-points-to-origin) |
@@ -1158,6 +1159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0933-increasing-order-search-tree) |
+| [0971-shortest-bridge](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0988-flip-equivalent-binary-trees) |
@@ -1226,6 +1228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0971-shortest-bridge](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0971-shortest-bridge) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0999-regions-cut-by-slashes) |
 | [1005-univalued-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1005-univalued-binary-tree) |
@@ -1279,6 +1282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0419-battleships-in-a-board](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0463-island-perimeter) |
 | [0891-score-after-flipping-matrix](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0891-score-after-flipping-matrix) |
+| [0971-shortest-bridge](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1171-shortest-path-in-binary-matrix) |
