@@ -538,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-video-stitching](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1081-video-stitching) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1087-longest-arithmetic-subsequence) |
 | [1095-two-city-scheduling](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1095-two-city-scheduling) |
+| [1117-as-far-from-land-as-possible](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1117-as-far-from-land-as-possible) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1121-partition-array-for-maximum-sum) |
 | [1127-last-stone-weight](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1127-last-stone-weight) |
 | [1129-longest-string-chain](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1129-longest-string-chain) |
@@ -1251,6 +1252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1117-as-far-from-land-as-possible](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1254-deepest-leaves-sum) |
@@ -1305,6 +1307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1073-number-of-enclaves) |
+| [1117-as-far-from-land-as-possible](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1239-largest-1-bordered-square](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1239-largest-1-bordered-square) |
 | [1242-matrix-block-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1242-matrix-block-sum) |
@@ -1430,6 +1433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-longest-turbulent-subarray](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1020-longest-turbulent-subarray) |
 | [1081-video-stitching](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1081-video-stitching) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1087-longest-arithmetic-subsequence) |
+| [1117-as-far-from-land-as-possible](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1117-as-far-from-land-as-possible) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1130-last-stone-weight-ii) |
