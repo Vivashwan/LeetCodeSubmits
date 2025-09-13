@@ -1083,6 +1083,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0813-all-paths-from-source-to-target](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0881-loud-and-rich) |
+| [0922-possible-bipartition](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1325-path-with-maximum-probability) |
@@ -1169,6 +1170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0904-leaf-similar-trees) |
+| [0922-possible-bipartition](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0922-possible-bipartition) |
 | [0933-increasing-order-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0933-increasing-order-search-tree) |
 | [0971-shortest-bridge](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0975-range-sum-of-bst) |
@@ -1244,6 +1246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0922-possible-bipartition](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0922-possible-bipartition) |
 | [0971-shortest-bridge](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0971-shortest-bridge) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0999-regions-cut-by-slashes) |
@@ -1279,6 +1282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1073-number-of-enclaves) |
