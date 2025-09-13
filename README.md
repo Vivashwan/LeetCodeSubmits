@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0409-longest-palindrome) |
+| [0433-minimum-genetic-mutation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0451-sort-characters-by-frequency) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0467-unique-substrings-in-wraparound-string) |
@@ -719,6 +720,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0409-longest-palindrome) |
+| [0433-minimum-genetic-mutation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0523-continuous-subarray-sum) |
@@ -1212,6 +1214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0417-pacific-atlantic-water-flow) |
+| [0433-minimum-genetic-mutation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0433-minimum-genetic-mutation) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0515-find-largest-value-in-each-tree-row) |
