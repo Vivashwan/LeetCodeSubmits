@@ -474,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -1222,6 +1223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0623-add-one-row-to-tree) |
@@ -1297,6 +1299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0542-01-matrix) |
 | [0891-score-after-flipping-matrix](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0891-score-after-flipping-matrix) |
 | [0971-shortest-bridge](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0971-shortest-bridge) |
 | [0999-regions-cut-by-slashes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0999-regions-cut-by-slashes) |
@@ -1400,6 +1403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0542-01-matrix) |
 | [0576-out-of-boundary-paths](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0576-out-of-boundary-paths) |
 | [0638-shopping-offers](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0638-shopping-offers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0646-maximum-length-of-pair-chain) |
