@@ -626,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1831-ways-to-split-array-into-three-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1831-ways-to-split-array-into-three-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1833-find-the-highest-altitude) |
 | [1835-decode-xored-permutation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1835-decode-xored-permutation) |
+| [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -1208,6 +1209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1753-path-with-minimum-effort) |
+| [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2035-count-sub-islands](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2103-find-all-groups-of-farmland) |
 ## Breadth-First Search
@@ -1299,6 +1301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1663-detect-cycles-in-2d-grid](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1753-path-with-minimum-effort) |
+| [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2035-count-sub-islands](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2035-count-sub-islands) |
 ## Matrix
 |  |
