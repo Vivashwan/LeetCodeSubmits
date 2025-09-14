@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1023-time-based-key-value-store](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1023-time-based-key-value-store) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1032-satisfiability-of-equality-equations) |
 | [1129-longest-string-chain](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1129-longest-string-chain) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1160-letter-tile-possibilities) |
@@ -527,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1018-largest-perimeter-triangle) |
 | [1020-longest-turbulent-subarray](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1020-longest-turbulent-subarray) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1046-max-consecutive-ones-iii) |
@@ -1085,6 +1087,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-loud-and-rich](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0881-loud-and-rich) |
 | [0922-possible-bipartition](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -1285,6 +1288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0922-possible-bipartition](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/0999-regions-cut-by-slashes) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1032-satisfiability-of-equality-equations) |
 | [1073-number-of-enclaves](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1380-number-of-closed-islands) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1663-detect-cycles-in-2d-grid) |
