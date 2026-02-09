@@ -287,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Greedy
 |  |
 | ------- |
@@ -381,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2530-minimize-maximum-of-array](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2530-minimize-maximum-of-array) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -713,6 +715,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3483-alternating-groups-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3483-alternating-groups-ii) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -815,6 +818,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2721-sum-of-distances](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2721-sum-of-distances) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1566,6 +1570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2227-sum-of-subarray-ranges](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2227-sum-of-subarray-ranges) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/2573-remove-nodes-from-linked-list) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Backtracking
 |  |
 | ------- |
