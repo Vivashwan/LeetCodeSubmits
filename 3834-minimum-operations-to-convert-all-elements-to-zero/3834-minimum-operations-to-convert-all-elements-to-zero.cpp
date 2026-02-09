@@ -2,19 +2,20 @@ class Solution {
 public:
     int minOperations(vector<int>& nums) {
         int res=0;
+
         stack<int>st;
-        
-        for(int x: nums)
+
+        for(auto it: nums)
         {
-            while(!st.empty() && st.top()>x) 
+            while(!st.empty() && st.top()>it)
             {
-                st.pop();
                 res++;
+                st.pop();
             }
 
-            if(x>0 && (st.empty() || st.top()<x)) 
+            if(it>0 && (st.empty() || st.top()<it))
             {
-                st.push(x);
+                st.push(it);
             }
         }
 
