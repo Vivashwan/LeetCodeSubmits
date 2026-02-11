@@ -1,28 +1,33 @@
 class Solution {
 public:
     int videoStitching(vector<vector<int>>& clips, int time) {
-        int n=clips.size();
+        int n = clips.size();
 
         sort(clips.begin(), clips.end());
 
-        int end=0, count=0, i=0;
- 
-        while(end<time) 
+        for(auto it: clips)
         {
-            int newEnd=end;
+            cout<<"{"<<it[0]<<","<<it[1]<<"}, ";
+        }
 
-            while(i<n && clips[i][0]<=end) 
+        int count=0, end=0, i=0;
+
+        while(end<time)
+        {
+            int curr=end;
+
+            while(i<n && clips[i][0]<=end)
             {
-                newEnd=max(newEnd, clips[i][1]);
+                curr=max(curr, clips[i][1]);
                 i++;
             }
 
-            if(newEnd==end) 
+            if(curr==end)
             {
                 return -1;
             }
 
-            end=newEnd;
+            end=curr;
             count++;
         }
 
