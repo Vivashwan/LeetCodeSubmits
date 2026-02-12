@@ -327,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1252-break-a-palindrome](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1252-break-a-palindrome) |
 | [1285-balance-a-binary-search-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1285-balance-a-binary-search-tree) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1304-longest-happy-string](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1304-longest-happy-string) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -922,6 +923,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1236-n-th-tribonacci-number](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1240-stone-game-ii) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1307-ugly-number-iii](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1307-ugly-number-iii) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Vivashwan/LeetCodeSubmits/tree/master/1370-count-number-of-nice-subarrays) |
